@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia joins G20 meeting overshadowed by Ukraine conflict - Reuters",
+            "description": "Russian Foreign Minister Sergei Lavrov will have his first close encounter with the fiercest critics of his country's invasion of Ukraine at a G20 gathering in Indonesia that was getting under way on Thursday with the war all but certain to dominate discussio…",
+            "url": "https://www.reuters.com/world/asia-pacific/russia-attends-g20-meeting-set-be-dominated-by-ukraine-conflict-2022-07-07/",
+            "urlToImage": "https://www.reuters.com/resizer/PaYNhTJnE-jZXcr8ozGKfHh4fEA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RUTBPUBGVVPF3EFTTWMBVGOOSQ.jpg",
+            "publishedAt": "2022-07-07T16:09:00Z",
+            "content": "NUSA DUA, Indonesia, July 7 (Reuters) - Russian Foreign Minister Sergei Lavrov will have his first close encounter with the fiercest critics of his country's invasion of Ukraine at a G20 gathering in… [+3868 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Guy, Luke McGee, Ivana Kottasová",
+            "title": "UK Prime Minister Boris Johnson resigns after mutiny in his party - CNN",
+            "description": "Boris Johnson has resigned following a revolt within his Conservative Party, saying in an address to the nation that the process of choosing a new prime minister \"should begin now.\"",
+            "url": "https://www.cnn.com/2022/07/07/europe/boris-johnson-resignation-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220606041406-02-boris-johnson-060622-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-07T16:03:00Z",
+            "content": "Boris Johnson has resigned following a revolt within his Conservative Party, saying in an address to the nation that the process of choosing a new prime minister should begin now. \r\nIt is clearly now… [+6770 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Eugene Scott",
+            "title": "Rapinoe, Giffords, Denzel Washington to receive Presidential Medal of Freedom - The Washington Post",
+            "description": "President Biden is awarding the Presidential Medal of Freedom, the nation's highest civilian honor, to 17 people, including Simone Biles, Denzel Washington, Gabby Giffords and, posthumously, inventor Steve Jobs and John McCain.",
+            "url": "https://www.washingtonpost.com/politics/2022/07/07/biden-freedom-medals-rapinoe-denzel-washington/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NHQXOEXZLQI6ZAO3VQD2HFFINM.jpg&w=1440",
+            "publishedAt": "2022-07-07T16:00:23Z",
+            "content": "Comment on this story\r\nPresident Biden on Thursday will award the Presidential Medal of Freedom, the nations highest civilian honor, to 17 people in a wide variety of endeavors, including gymnast Sim… [+4402 chars]"
+        }
+    ]
+}
